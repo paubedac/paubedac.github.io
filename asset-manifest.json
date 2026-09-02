@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/paubedac.github.io/static/css/main.8f065473.css",
+    "main.js": "/paubedac.github.io/static/js/main.869390d1.js",
+    "static/js/453.a68a7378.chunk.js": "/paubedac.github.io/static/js/453.a68a7378.chunk.js",
+    "static/media/JRSContable.png": "/paubedac.github.io/static/media/JRSContable.c89858d5ca97dc64470c.png",
+    "static/media/MiPago.png": "/paubedac.github.io/static/media/MiPago.4e0bc9db543ec61b470a.png",
+    "static/media/MiCuenta.png": "/paubedac.github.io/static/media/MiCuenta.1b1ba281a9d9e35ebdbd.png",
+    "static/media/bg-light.png": "/paubedac.github.io/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/MiSeguro.png": "/paubedac.github.io/static/media/MiSeguro.3a7b0f678f428ffedc18.png",
+    "static/media/bg-dark.png": "/paubedac.github.io/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/DesafioFintech.jpg": "/paubedac.github.io/static/media/DesafioFintech.ba58288a0658d87706d7.jpg",
+    "static/media/emprendeFintech.png": "/paubedac.github.io/static/media/emprendeFintech.01ad76cbd882e1385fc3.png",
+    "static/media/DoW.png": "/paubedac.github.io/static/media/DoW.544057b5b0fb66b4e2ca.png",
+    "static/media/Eggbert.png": "/paubedac.github.io/static/media/Eggbert.ad0671399b0fcc407910.png",
+    "static/media/profilePic.jpg": "/paubedac.github.io/static/media/profilePic.3d0f659f2ddeb6af0ab4.jpg",
+    "index.html": "/paubedac.github.io/index.html",
+    "main.8f065473.css.map": "/paubedac.github.io/static/css/main.8f065473.css.map",
+    "main.869390d1.js.map": "/paubedac.github.io/static/js/main.869390d1.js.map",
+    "453.a68a7378.chunk.js.map": "/paubedac.github.io/static/js/453.a68a7378.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f065473.css",
+    "static/js/main.869390d1.js"
+  ]
+}
